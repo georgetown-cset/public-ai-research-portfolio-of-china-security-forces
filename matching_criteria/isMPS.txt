@@ -1,0 +1,27 @@
+omit 警察大学, because it appears to train PAP officers but is administered by MPS?
+exact match if org name is the three characters "MPS"
+
+Case-insensitive logical OR clauses of the following regular expressions:
+(公安[部局厅])
+(Ministry of Public Security)
+( mps$)
+(^mps )
+(金盾)
+(安全保卫局)
+(犯罪侦查局)
+(刑事侦查局)
+(特勤局)
+(警卫局)
+(禁毒局)
+(移民管理局)
+(犯罪信息中心)
+(Crime Information Center)
+(公安大学)
+(警官大学)
+(警官学院)
+(Public Security University)
+(警察学院)
+(警察干部学校)
+(National Police University)
+( NPUC$)
+(^NPUC )

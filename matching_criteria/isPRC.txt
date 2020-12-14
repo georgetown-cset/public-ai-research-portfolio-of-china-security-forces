@@ -1,0 +1,5 @@
+Case-insensitive logical OR clauses of the following regular expressions:
+(中国)
+(中华人民共和国)
+(prc)
+(china)

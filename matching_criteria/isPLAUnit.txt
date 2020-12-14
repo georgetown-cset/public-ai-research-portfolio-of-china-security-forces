@@ -1,0 +1,4 @@
+Case-insensitive logical OR clauses of the following regular expressions:
+([0-9]{4} ?部队)
+(解放军第?[0-9]{4})
+(PLA第?[0-9]{4})

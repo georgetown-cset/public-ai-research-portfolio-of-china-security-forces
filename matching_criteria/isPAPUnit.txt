@@ -1,0 +1,3 @@
+Case-insensitive logical OR clauses of the following regular expressions:
+(武装?警察?第?[0-9]{4})
+(PAP第?[0-9]{4})
