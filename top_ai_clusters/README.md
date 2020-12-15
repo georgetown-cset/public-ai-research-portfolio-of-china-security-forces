@@ -3,6 +3,10 @@
 
 ## Top PRC security forces organizations
 
+## prc_security_forces_ai_clusters_summary.csv
+
+Summary of Top AI Clusters with at least one PRC security force participation.
+
 Canonical names in these lists represent current results of CSET's CNKI organization entity resolution effort. We recognize errors, deficiencies, and incorrect linkages in the current version.
 
 ### prc_security_forces_top_ai_clusters_mps_organization_canonical_edited.csv
